@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import os
 
 print("please run with root account/请在root账户下执行")
